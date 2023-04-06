@@ -6,9 +6,8 @@
     <img src="public/logo192.png" alt="Logo" width="80" height="80">
   </a>
 
-    <a href="https://doggy-directory-app-6bm2f.ondigitalocean.app/">View Demo 🏗️</a>
-  </p>
-</p>
+    [View Demo](https://doggy-directory-app-6bm2f.ondigitalocean.app/)
+
 
 # Getting Started with Create React App
 
