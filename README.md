@@ -1,4 +1,4 @@
-# Doggy Directory
+# Doggy APP
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -6,10 +6,6 @@
     <img src="public/logo192.png" alt="Logo" width="80" height="80">
   </a>
 
-  <p align="center">
-  <strong>This is a sample app for the DigitalOcean article: "How to Test a React App with Jest and React Testing Library"</strong>
-    <br />
-    <br />
     <a href="https://doggy-directory-app-6bm2f.ondigitalocean.app/">View Demo 🏗️</a>
   </p>
 </p>
