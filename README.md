@@ -6,7 +6,6 @@
     <img src="public/logo192.png" alt="Logo" width="80" height="80">
   </a>
 
-    [View Demo](https://doggy-directory-app-6bm2f.ondigitalocean.app)
 
 
 # Getting Started with Create React App
